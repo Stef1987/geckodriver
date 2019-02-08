@@ -4,7 +4,7 @@ Change log
 All notable changes to this program is documented in this file.
 
 
-0.24.0 [917474f3473e] (2018-01-28)
+0.24.0 [917474f3473e] (2019-01-28)
 ------------------------------------
 
 ### Added
